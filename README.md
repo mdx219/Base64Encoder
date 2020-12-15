@@ -1,8 +1,8 @@
-#Base64Encoder
+# Base64Encoder
 
 A simple base64encoder in Python
 
-###Usage
+### Usage
 ```
 -h, --help, -?        :  List this help
 -s, --string          :  Accepts a string to encode
